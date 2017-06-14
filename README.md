@@ -26,10 +26,7 @@ There are many additional branches in this repository that you may find useful:
 
 #### Purpose
 
-This project uses the latest master branch of Angular Material to build the application outlined
-below.
 
-![material-starter-ux2](https://cloud.githubusercontent.com/assets/6004537/14996543/b588eb46-1137-11e6-803c-ce23996c9742.png)
 
 Above is a snaphot of the Starter-App with a **Master-Detail** layout: showing a list of users
 (left) and a user detail view (right).
@@ -84,9 +81,6 @@ process:
 
 The illustration below shows how we planned the layout and identified the primary components that
 will be used in the Starter app:
-
-<br/>
-<img src="https://cloud.githubusercontent.com/assets/210413/6444676/c247c8f8-c0c4-11e4-8206-208f55cbceee.png">
 
 > **Note:** The container #2 (above) is a simple `<div>` container and not an Angular Material
   component.
